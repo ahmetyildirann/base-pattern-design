@@ -37,4 +37,9 @@ public class TestTest {
     void test2() {
         System.out.println("Test2");
     }
+
+    @Test
+    void test3() {
+        System.out.println("Test3");
+    }
 }
